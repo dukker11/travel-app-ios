@@ -36,9 +36,9 @@ We don&apos;t sell tickets ourselves, but help you find the best option without 
 		<key>default_currency</key>
 		<string>USD</string>
 		<key>flights_origin</key>
-		<string>BOS</string>
+		<string>BER</string>
 		<key>flights_destination</key>
-		<string>NYC</string>
+		<string>PAR</string>
 		<key>available_airlines</key>
 		<array/>
 		<key>hotels_city</key>
