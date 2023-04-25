@@ -13,20 +13,17 @@
 	<key>hotels_enabled</key>
 	<true/>
 	<key>default_locale</key>
-	<string>ru</string>
+	<string>en</string>
 	<key>firebase_enabled</key>
 	<true/>
 	<key>app_description</key>
 	<dict>
 		<key>en</key>
 		<string>We search for the cheapest airfare for flights around the world, including charters and low-cost flights. 
-We don&apos;t sell tickets ourselves, but help you find the best option without commission through more than 100 partner agencies.
-</string>
+We don&apos;t sell tickets ourselves, but help you find the best option without commission through more than 100 partner agencies.</string>
 		<key>ru</key>
 		<string>Мы ищем самые дешёвые авиабилеты на рейсы по всему миру, включая чартеры и лоукосты. 
-Мы не продаём билеты сами, а помогаем найти лучший вариант без комиссии с помощью более 100 агентств-партнеров.
-(английская локаль)
-</string>
+Мы не продаём билеты сами, а помогаем найти лучший вариант без комиссии с помощью более 100 агентств-партнеров.</string>
 	</dict>
 	<key>feedback_email</key>
 	<string></string>
